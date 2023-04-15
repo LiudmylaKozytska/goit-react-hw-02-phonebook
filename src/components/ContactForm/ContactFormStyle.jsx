@@ -11,7 +11,7 @@ export const Form = styled.form`
   background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 `;
 
-export const Title = styled.h1`
+export const Title = styled.h2`
   font-size: 32px;
   text-transform: uppercase;
   margin-bottom: 24px;
