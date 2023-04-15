@@ -1,8 +1,6 @@
 import styled from '@emotion/styled';
 
 export const Container = styled.div`
-  width: 100vw;
-  height: 100vh;
   padding: 60px;
   background-color: #d9afd9;
   background-image: linear-gradient(59deg, #d9afd9 0%, #97d9e1 100%);
